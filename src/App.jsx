@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="container">
-      <h1>🚀 CI/CD Demo</h1>
+      <h1>🚀 CI/CD Demo with github actions</h1>
       <h2>React + Docker + AWS EC2</h2>
       <p>This application was deployed automatically using GitHub Actions.</p>
 
